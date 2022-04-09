@@ -1,0 +1,77 @@
+Alguns dos comandos básicos usados pelo GitHub são os seguintes:
+
+Comandos para obter projetos existentes e criar um novo projeto GITHUB:
+
+1-Git init : Suponha que o desenvolvedor precise preparar um novo repositório em seu ambiente on-premises. Para inicializar a mesma coisa, eles têm que usar comandos init, o que os ajuda a
+inicializar o repositório de projetos do GitHub localmente.
+
+2-Ssh clone git: //something.com/ (nome de usuário) / (repository_name) .git: Suponha que o desenvolvedor precise criar um repositório github específico em sua cópia local a partir do local
+remoto específico. Em seguida, eles têm que executar o comando clone para copiar o mesmo repositório remoto para o ambiente local para um local específico.
+
+Alguns dos comandos básicos para continuar com o GITHUB:
+
+1-Git status: Este comando GitHub é usado principalmente para identificar o estado criado do GIT no repositório local. Fornece informações apropriadas entre um estado de sincronização do
+repositório local e o GITHUB para o usuário final.
+
+2-Git add (file_name.doc): Usado para adicionar um arquivo específico na área de encenação.
+
+3-Git add –A: Todos os arquivos, sejam novos ou modificados, serão adicionados na área de preparação.
+
+4-Git commits -m ("mensagem de confirmação"): confirma todas as alterações necessárias.
+
+5-Git rm -r (file_name.doc): Ajude a excluir o arquivo ou qualquer pasta definida.
+
+Existem vários outros comandos populares que o desenvolvedor usa, que não são comandos muito básicos, mas trabalham mais com o GITHUB, esses comandos são muito necessários para executá-los.
+Alguns desses tipos exigem comandos intermediários do GitHub mencionados abaixo:
+
+1-Git branch: Este é um comando muito útil para usar qualquer tipo de GITHUB configurado para seus projetos. Ele normalmente fornece informações completas do ramo em uma lista.
+Uma denotação de asterisco também é dada que indica o projeto exato atual.
+
+2-Git branch -a: Isso ajuda a listar todas as filiais disponíveis levando em conta todas as filiais, podendo ser local ou remota. É um dos principais comandos para identificar todos os 
+projetos disponíveis no ambiente GITHUB.
+
+3-Git brach (branch_name): Criando uma nova filial com um novo nome.
+
+4-Git brach –d (branch_name): Exclua um ramo específico.
+
+5-Git push origin –delete (branch_name): Exclua um ramo do ambiente remoto.
+
+6-Git checkout -b (branch_name): ajudando a criar uma nova filial específica e alterando toda a base de código para ele.
+
+7-Git checkout –b (filial nombre_de_) origem / nombre_de_ filial: Ele ajuda a clonar um ramo remoto e alterar toda a base de código para ele.
+
+8-Git checkout (branch_name): Mude para uma filial definida.
+
+9-Git checkout: Mude para uma filial específica que é verificada por último.
+
+10-Git Checkout - (nombre_archivo.doc): evite ou descarte as últimas alterações no arquivo específico.
+
+11-Git merges (branch_name): Ajude a mesclar um ramo específico com uma das outras agências de atividade disponíveis.
+
+12-Git merges (source_branch) (target_branch): Ajuda para a fusão com o ramo de sourcing especificado e o ramo de destino especificado.
+
+13-Git stash: Stash ajuda em algumas das mudanças específicas para definir o diretório sujo imediatamente.
+
+14-Git stash clear: Excluindo todas as entradas ocultas do diretório de trabalho sujo.
+
+Comandos avançados do GitHub
+Ainda assim, os usuários do GitHub devem executar algumas das tarefas críticas com frequência. Essas tarefas também têm algum tipo de comando avançado que precisa ser executado, e que são 
+usados principalmente por algumas pessoas gerenciais para entender o status de projetos que comparam outros projetos existentes e que às vezes também são usados para compartilhar algum 
+conhecimento do projeto com outros. Estes comandos avançados do GitHub são mencionados abaixo:
+Comandos para atualizar ou compartilhar dados do projeto:
+
+1-Git push origin (branch_name): Ajuda a enviar uma das filiais criadas em seu ambiente local para um diretório ou repositório remoto.
+
+2-Git push –u origin (branch_name): executa a tarefa semelhante à anterior, empurrando toda a filial do repositório local para o repositório remoto, a utilidade adicional de usar este 
+comando também é lembrada para este ramo específico para referência futura.
+
+3-Git push: novamente, ele faz a mesma tarefa, empurrando os dados de todo o repositório local para remoto, mas não é necessário mencionar o nome do ramo, ele vai pegar o nome do ramo 
+diretamente da última filial lembrada.
+
+4-Git push origin - delete (branch_name): excluindo o ramo especificado.
+
+5-Git pull: Ajude a atualizar todos os compromissos mais recentes no repositório de mapeamento local.
+
+6-Origem de tração de git (branch_name): Ajuda a extrair alterações completas do repositório remoto para o repositório local.
+
+7-Git remoto adiciona fonte ssh: //something.com/ (user_name) / (repository_name) .git: Ajude a mapear o ramo de origem do repositório local para o repositório remoto via SSH.
